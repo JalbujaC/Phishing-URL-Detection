@@ -33,7 +33,7 @@ Ensure you have Python 3.8 or higher installed.
 Step-by-step Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/JalbujaC/Phishing-URL-Detection.git
 ```
 
 Navigate into the project directory:
